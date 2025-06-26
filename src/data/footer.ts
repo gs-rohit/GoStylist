@@ -8,14 +8,14 @@ export const socialLinks: SocialLink[] = [
 ];
 
 export const contactInfo: ContactInfo[] = [
-  { icon: Mail, text: "hello@gostylist.com" },
-  { icon: Phone, text: "+1 (555) 123-4567" },
-  { icon: MapPin, text: "San Francisco, CA" }
+  { icon: Mail, text: "info@gostylist.in" },
+  // { icon: Phone, text: "" },
+  { icon: MapPin, text: "Gurugram, Haryana " }
 ];
 
 export const legalLinks = [
   { href: "#", label: "Privacy Policy" },
   { href: "#", label: "Terms of Service" },
   { href: "#", label: "Cookie Policy" },
-  { href: "#", label: "GDPR Compliance" }
+  // { href: "#", label: "GDPR Compliance" }
 ];
